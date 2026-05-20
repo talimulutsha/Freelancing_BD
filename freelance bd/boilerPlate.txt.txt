@@ -1,0 +1,43 @@
+1. Menu:
+	MAIN NAVIGATION MENU:
+	🏠 Home
+	🔍 Browse Gigs
+	💼 Find Jobs
+	📂 Categories
+	💬 Messages
+	🔔 Notifications
+	👤 Profile
+	🚪 Logout
+	
+	FREELANCER MENU:
+	📊 Dashboard
+	📦 My Gigs
+	➕ Create Gig
+	📄 Job Applications
+	📨 Orders Received
+	💰 Earnings
+	⭐ Reviews
+	💬 Messages
+	👤 Profile Settings
+	
+	CLIENT MENU:
+	📊 Dashboard
+	🔍 Browse Freelancers
+	📦 My Orders
+	➕ Post a Job
+	📄 Job Applications
+	💳 Payments
+	⭐ My Reviews
+	💬 Messages
+	👤 Profile Settings
+	
+	ADMIN MENU:
+	📊 Dashboard
+	👥 Manage Users
+	📦 Manage Gigs
+	💼 Manage Jobs
+	🛒 Manage Orders
+	💳 Transactions
+	⭐ Reviews & Ratings
+	🚨 Reports
+	⚙️ System Settings	
