@@ -71,4 +71,48 @@ The database (`fbd`) is implemented in SQL Server with the following core tables
 
 ## 🚀 How to Run
 
-1. **Clone the repository:**
+1. Clone the repository: `git clone https://github.com/talimulutsha/Freelancing_BD.git`
+2. Open the `.sln` solution file inside the `freelance bd` folder in **Visual Studio**
+3. Open **SQL Server Management Studio (SSMS)**, create a database named `fbd` and run the SQL scripts
+4. Update the **connection string** in the source code to match your SQL Server instance
+5. Press **F5** in Visual Studio to build and run
+
+---
+
+## 📁 Project Structure
+
+Freelancing_BD/
+├── freelance bd/               # Main C# Windows Forms project
+├── c#Projectfinalreport.docx   # Full academic project report
+└── README.md
+
+---
+
+## 📄 Project Report
+
+The complete academic project report is included in the repository:
+📎 [c#Projectfinalreport.docx](./c%23Projectfinalreport.docx)
+
+---
+
+## 📷 Screenshots
+
+Key screens in the application:
+- Login Page (Admin / Company / Freelancer)
+- Freelancer Registration & Profile
+- Company Registration
+- Job Dashboard
+- Job Application & Status Tracking
+
+---
+
+## 👨‍💻 Developers
+
+**MD. Talimul Islam Utsha** — [@talimulutsha](https://github.com/talimulutsha)
+**MD. Hishamur Rahman**
+
+---
+
+## 📜 License
+
+This project is developed for **academic and educational purposes** only — AIUB, Spring 2025–2026.
